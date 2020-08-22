@@ -1,0 +1,15 @@
+{
+    "id": "147bc113-7aaf-402f-8f67-22770eb65caf",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "a",
+        "homepage": "a",
+        "support": "a"
+    },
+    "name": "ConditionalBlockTest",
+    "nameSlug": "conditionalblocktest",
+    "classFile": "ConditionalBlockTestApp.ts",
+    "description": "a"
+}
