@@ -6,4 +6,4 @@ This is simply for demonstration purposes.
 
 Deploy it to your server using `rc-apps`
 
-[Test image](image.png)
+<img src="./image.png?raw=true">
